@@ -1,0 +1,8 @@
+# The code of the proposed curvature-driven cloud removal method 
+matlab vision
+"Curvature_based_Image_Reconstruction.m" is function to achieve image reconstruction for each cloud area
+"Whole_Image_Cloud_Removal_by_Curvature.m" is function to achieve image reconstruction for the whole image
+run the "main.m", you can change the path to your data
+
+if the code is used and helpful for your research, please cite:
+Xiaoyu Yu, Jun Pan, Mi Wang & Jiangong Xu (2023) A curvature-driven cloud removal method for remote sensing images, Geo-spatial Information Science, DOI: 10.1080/10095020.2023.2189462
